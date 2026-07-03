@@ -20,7 +20,7 @@ Not applicable.
 
 Mock patient data consist of `ITP_encoded.csv` (subjects' sex, age, confirmed response status, and time to confirmed response) and `patients.zip` (daily values of 20 hematological parameters of subjects).
 
-Extract `./mock_up_data/patients.zip` to the `./mock_up_data/patients/`.
+Extract `./mock-up-data/patients.zip` to the `./mock-up-data/patients/`.
 
 Set `root` on line 409 of `itp-calculator.R` to the absolute path of the `mock_up_data` folder under your project directory.
 
