@@ -22,7 +22,7 @@ Mock patient data consist of `ITP_encoded.csv` (subjects' sex, age, confirmed re
 
 Extract `./mock-up-data/patients.zip` to the `./mock-up-data/patients/`.
 
-Set `root` on line 409 of `itp-calculator.R` to the absolute path of the `mock_up_data` folder under your project directory.
+Set `root` on line 409 of `itp-calculator.R` to the absolute path of the `mock-up-data` folder under your project directory.
 
 Run `itp-calculator.R`.
 
