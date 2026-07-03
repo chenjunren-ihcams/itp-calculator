@@ -18,7 +18,7 @@ Not applicable.
 
 ## 3. INSTRUCTIONS
 
-Mock patient data consist of `ITP_encoded.csv` (subjects' sex, age, confirmed response status, and time to confirmed response) and `patients.zip` (daily values of 20 hematological parameters of subjects).
+Mock patient data consist of `ITP_encoded.csv` (subjects' sex and age) and `patients.zip` (daily values of 20 hematological parameters of subjects).
 
 Extract `./mock-up-data/patients.zip` to the `./mock-up-data/patients/`.
 
