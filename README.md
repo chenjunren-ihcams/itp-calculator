@@ -1,6 +1,6 @@
 # itp-calculator
 
-This project is the implementation of daGOAT model-defined trinary classification presented in "**Dynamic forecasting of severe acute graft-versus-host disease after transplantation**".
+This project is the implementation of daGOAT model-defined trinary classification presented in "**Artificial intelligence prediction of therapy response in newly diagnosed adult severe primary immune thrombocytopenia**".
 
 ## 1. SYSTEM REQUIREMENTS
 
