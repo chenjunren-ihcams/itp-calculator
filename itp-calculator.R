@@ -620,3 +620,4 @@ df_risk[df_risk$plt_30_time == "slow/no response", ]$risk_bind <- "Slow/no respo
 df_risk[df_risk$plt_30_time == "fast", ]$risk_bind <- paste(df_risk[df_risk$plt_30_time == "fast", ]$risk, 
                                                              df_risk[df_risk$plt_30_time == "fast", ]$plt_30_time)
 
+df_risk$risk_bind
