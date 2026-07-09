@@ -406,7 +406,7 @@ day <- end.t + offset.t
 nfold <- 5 
 grade <- '234'
 
-root <- './mock_up_data/'     ######the absolute path of the mock-up-data folder under your project directory
+root <- './desensitized-data/'     ######the absolute path of the desensitized-data folder under your project directory
 
 encoded.name <- "ITP_encoded.csv"
 keys.name <- "ITP_keys.csv"
